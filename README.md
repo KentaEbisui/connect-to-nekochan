@@ -32,4 +32,3 @@ https://docs.google.com/spreadsheets/d/1t9WNeM4fo16Q1wj8gcXuFybKD2Ym1z71b2o1pFAy
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
-- 
