@@ -21,7 +21,6 @@
 猫が生まれた、捨て猫を拾ったが育てられないので飼い主さんを探したい時、新しく猫を飼ってみたいなと思った時。
 
 ## 設計書
-<...>
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1t9WNeM4fo16Q1wj8gcXuFybKD2Ym1z71b2o1pFAyVi8/edit#gid=0
