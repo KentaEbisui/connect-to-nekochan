@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+@import "bootstrap";
+@import 'font-awesome-sprockets';
+@import 'font-awesome';
+
+.nav-item:hover{
+  transform: scale(1.2, 1.2);
+  transition: all .20s;
+}
